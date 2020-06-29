@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "338545629075",
+    "firebase_url": "https://allinone-6040c.firebaseio.com",
+    "project_id": "allinone-6040c",
+    "storage_bucket": "allinone-6040c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:338545629075:android:9b85e57bb14ce2012d7a66",
+        "android_client_info": {
+          "package_name": "com.example.firebaseconfig"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "338545629075-5ncm549gcb9in99hntjubeoetmodm4fs.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB9Z4nMPAMO9YYzinWcrp7f6Yyiz7jBcgo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "338545629075-5ncm549gcb9in99hntjubeoetmodm4fs.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
